@@ -21,6 +21,9 @@ finish this step by yourself orz
 ```
 
 ### Execute the script
+When running this scripts, you should input your name and id as attributes.
+
+The default value of vaild date of permit is 7 (from current date to 6day+)
 
 ```
 cd /source
