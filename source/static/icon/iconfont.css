@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "iconfont";
+    /* Project id 2720461 */
+    /* Color fonts */
+    src: url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAATwAAwAAAAAChgAAASiAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIl4jFgZgAFQKjEiJbAE2AiQDIAseAAQgBYF8ByAbyQfInpo8KQpSWTy4AMBDMGDB8/y9eu7NWNP3xmzBRQF9GEsw4gHp0gK2VNDy//nc9DGoJSmpfEJVNVREkSm0TibOGiYumftJ5Wg6dbMey5ZRHoX11AXetsHx/9bG1BdIMCsPa4CdJ9lTl6lfK1j3nwf8jm9Y636rNel2GAoHK/dmAQphREIYhxzLq8k3wOk3vANwAkGgDTgKCG4LKHagC46C4sSV0F14Am7IngMv4AP8QKCpwHDRRHBfADSx6uFBsII+ENhBHuDAY8pOawJgnx1GjhDIC0SSkzDvOSwnGTiw+9TJV/43gM1Aor5CqbbrNwBlqDWCDYjLZslCApZkmt1MDZbfBr098fHep05C7NCAtV/x/4X5LfM0UQBiD1yUNOSb80eNgToAvUOwxU7qPKA1bEelH6N4iDNCHj4IBXvG+cyQYwfzENNA+YCGqR/ReKrHQMHEgKeqA0zdC0A5nu/nqSgCZ6AeIcCIsBhdSnk8lViKKc6Y8y4RZ+61IJRwmTC10+AWqs3Y0V2V2mU4c8yc4zizgxJIqZwWnHnsqbEQ57+hWSPCYBCijI0UsdSXiykCIrNHrZigcCGsIk5JoMTU91WAIgQQegvYUoqIZQQFIiw73eID7DMOt+MX7lZEjqmRGQ0PMJiW3pUYSeVLsOUIgVMEetWqEgcxjFfKUFTpqVmre6IjbHABhvIhFuJJ3mpb6bm7zjgTPLpz844B1a5nOSm3BZ7m3Hl0lcBsSRG8HhJpDItCnWwcXxknAFJYub/tWC7D5B5ra4sOYphjuW3NM3U3HJGsTpTLE1dLJNghl1c7SaS/cRg8+FauAwM95ITC9BKa1D6/w7IIeuTk/34tq0UqhwxNsiQ5pUatqbFN+7JM2tKSzhCPtqPFm1KtvP3TYqMD0n1sw4cHKL7JYs6TON+IsMxg1/LgsrLmnOB4d9sFyoVEvmEfrU2UShO1NJ2wUipdmUDTclYqTVgpfStwBtwWGYFLt3L7ja5TRh++CRveuHc3p5FSMg23NG9yr0ZqgEk13ETlM4pjGRIqTvp9tcWNKY7w204/dYbUKoScWkv+NpyMlo0R+nUFScUha2afOUvOVRDna825DS5RC6lNtL7iUmaVQevp4+mhDf0GwgkFuoDUrJBkp0SRIGFPQrnIIe3+O6SQnRQ1YmsbyaaMzM/JF3dwY3hMmKa3T5ldxuPjhsTEuPHZwhrXEzg+LjVm6S0mtYYgxmVwrmyvfJyAa+eOP69pWLH2tmoo0Kf4e1eVJF+7butM7nS79QiZDF8rldNLfbyamtmzw8hTY9FBz8KqHLlnizzvvOGk1ub3cNSv601uSHFMNVEcP8kV2B1+RviDqGxGluM8yclrZp48YyPVgUWiK5oRN2TVZNS/vu1p2/fjZ62bnWMZAdgMgNPXbtC8yJqF0HZezx30mdQHo78A/AHwtjgS5DZjxev7PDg54CN2AxDCAFVACeoazLXRBxuunTIUcR1kYeAxJ2WYDxf1unVpSj43oECjZoM61OrjDz7gB4VIyJEbGZOLpct38taXTgmyM5Y0Sn36teKtdhes61AXn2BP6wX/oxoDAA==') format('woff2'), url('iconfont.woff?t=1628073094831') format('woff'), url('iconfont.ttf?t=1628073094831') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-en0:before {
+    content: "\e6bb";
+}
+
+.icon-cn0:before {
+    content: "\eb6b";
+}
+
+.icon-lang-cn:before {
+    content: "\eb6c";
+}
+
+.icon-lang-en:before {
+    content: "\eb6d";
+}
+
+.icon-cn:before {
+    content: "\e634";
+}
+
+.icon-en:before {
+    content: "\ead2";
+}
