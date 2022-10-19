@@ -8,9 +8,9 @@ A python scripts used to auto generate *fake* cuhksz pass permit
 ### Env setup
 ```
 
-pip install flask
+pip install flask /
 
-sudoapt install flask
+sudo apt install flask
 
 ```
 
